@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Kantor Coderslab</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class='box'>
+    <div class='box-form'>
+      <div class='box-login-tab'></div>
+      <div class='box-login-title'>
+        <i class='i i-login'></i><h2>Kantor</h2>
+      </div>
+      <div class='box-login'>
+        <form class='fieldset-body' method="POST" action="http://localhost:80/test.php" method="POST">
+        	<div class='field'>
+            <label>Kurs EUR/PLN</label>
+            <input type='text' name='unit' title='Jednostka' />
+          </div>
+      	  <div class='field'>
+            <label>Ilosc Euro</label>
+            <input type='text' name='quantity' title='Ilosc' />
+          </div>
+          	<input type='submit' class="submit" value='Przelicz' title='Przelicz' />
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

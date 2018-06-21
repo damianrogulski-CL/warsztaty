@@ -1,0 +1,6 @@
+1. Zanim przyjdziesz na warsztat, potrzebujesz zainstalować serwer PHP (dzięki temu, będziemy w stanie zrealizować zadanie na warsztatach). Do tego potrzebujemy oprogramowania
+
+Dla PC/Linux: XAMPP - https://www.apachefriends.org/pl/download.html
+dla OSX: MAMP - https://www.mamp.info/en/
+
+2. Pliki HTML i CSS Będą służyły nam podczas warsztatu. Ściągnij je na swój komputer.
